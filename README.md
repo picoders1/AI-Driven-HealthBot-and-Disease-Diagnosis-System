@@ -1,9 +1,8 @@
 # AI-Driven-HealthBot-Disease-Diagnosis-System
+
 This system combines the power of conversational chatbot interfaces with advanced disease prediction algorithms, enabling users to receive real-time medical guidance and identify potential health issues at an early stage.
 
-
 ##	GUI Implementation Snapshot with Documentation Stuff:
-
 
 ## Index Page: This is mainly initial launching page which contains different sort of Modules such as Login, Signup, Help Section so on & so forth.
 
