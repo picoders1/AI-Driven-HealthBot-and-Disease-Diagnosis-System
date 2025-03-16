@@ -4,6 +4,7 @@ This system combines the power of conversational chatbot interfaces with advance
 
 ##	GUI Implementation Snapshot with Documentation Stuff:
 
+
 ## Index Page: This is mainly the initial launching page which contains different sort of Modules such as Login, Signup, Help Section so on & so forth.
 
 ![image](https://github.com/picoders1/AI-based-Healthcare-Chatbot---Disease-Detection-System/assets/87698874/2fa0f387-ba31-4c19-b929-a9e2e1b706ce)
