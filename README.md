@@ -1,11 +1,11 @@
-# AI-Driven-HealthBot-Disease-Diagnosis-System
+# AI-Driven HealthBot Disease Diagnosis System
 
 This system combines the power of conversational chatbot interfaces with advanced disease prediction algorithms, enabling users to receive real-time medical guidance and identify potential health issues at an early stage.
 
 ##	GUI Implementation Snapshot with Documentation Stuff:
 
 
-## Index Page: This is mainly the initial launching page which contains different sort of Modules such as Login, Signup, Help Section so on & so forth.
+## Index Page: This is mainly the initial launching page which contains different Modules such as Login, Signup, Help Section so on.
 
 ![image](https://github.com/picoders1/AI-based-Healthcare-Chatbot---Disease-Detection-System/assets/87698874/2fa0f387-ba31-4c19-b929-a9e2e1b706ce)
 
@@ -19,7 +19,7 @@ Fig 6.3.1
 . Fig 6.3.2
  
 
-## Login Page: In the Login Page, providing authentic User credentials helps one to reach into the dashboard
+## Login Page: In the Login Page, providing authentic User credentials helps one to reach the dashboard
 
 ![image](https://github.com/picoders1/AI-based-Healthcare-Chatbot---Disease-Detection-System/assets/87698874/f437d523-b83a-4648-a902-575492613fc1)
 
